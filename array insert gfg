@@ -1,0 +1,8 @@
+#User function Template for python3
+
+class Solution:
+    
+    def insertAtIndex(self, arr, sizeOfArray, index, element):
+          arr.insert(index,element)
+          return arr
+ 
